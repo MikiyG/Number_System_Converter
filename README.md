@@ -1,2 +1,1 @@
-# Number_System_Converter
- A c++ program that converts all the number systems, biniary , decimal....
+This is a simple command-line program written in C++ that allows users to convert numbers between binary, decimal, and hexadecimal systems. It provides six conversion options and takes user input to perform the selected conversion.
